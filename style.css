@@ -1,0 +1,65 @@
+body{
+ background: rgb(240, 239, 239);
+ font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+ width: 65%;
+ margin: auto;
+ padding: 0;
+ background: #fff;
+ }
+ pre{
+  display: block;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-size: 1.2em;
+
+ }
+.header{
+ text-align: center;
+ padding-top: 2rem;
+}
+
+.head{
+ margin-bottom: -.2em;
+}
+.header p{
+ margin-bottom: -.6em;
+}
+main{
+ margin-left: 5rem;
+ margin-right: 5rem;
+ 
+}
+.aim{
+ font-style: italic;
+}
+ul{
+ padding-left: 1em;
+}
+.profile{
+ border-bottom: 4px solid rgb(51, 50, 50);
+}
+.exp{
+ border-bottom: 3px solid rgb(51, 50, 50);
+}
+.row{
+ display: flex;
+}
+.row2{
+ margin-left: 3em;
+ width: 75%;
+}
+.row-1{
+ margin-top: 5.4em;
+}
+span{
+ width: 10em;
+ height: 10em;
+ background: black;
+ /* border-radius: 100%; */
+}
+.footer{
+ padding-bottom: 1em;
+}
+
